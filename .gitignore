@@ -177,3 +177,5 @@ learn_pytorch/dataSet/
 .idea/
 
 learn_pytorch/logs/
+.pytest_cache/
+logs/
