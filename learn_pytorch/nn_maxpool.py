@@ -28,6 +28,7 @@ for data in dataloader:
     output = maxp(imgs)
     # print(output.shape)
     witer.add_images("input",imgs,global_step=step)
+    witer.add_images("output",output,global_step=step)
 
 witer.close()
 # output = maxp(input)
