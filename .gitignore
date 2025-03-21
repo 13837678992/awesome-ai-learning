@@ -177,6 +177,7 @@ learn_pytorch/dataSet/
 .idea/
 
 learn_pytorch/logs/
+learn_pytorch/log/
 .pytest_cache/
 logs/
 /data/
